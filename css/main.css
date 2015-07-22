@@ -54,12 +54,12 @@ header {
   width: 100%;
 }
 a {
-  color: #6ab47b;
+  color: #1D3B75;
 }
 
 header {
-  background: #6ab47b;
-  border-color: #599a68;
+  background: #1D3B75;
+  border-color: #324475;
 }
 
 
@@ -93,7 +93,7 @@ nav a, nav a:visited {
 }
 
 nav a.selected, nav a:hover {
-  color: #32673f;
+  color: #999999;
 }
 
 /* nav background on mobile */
